@@ -9,7 +9,7 @@ You can get the data from https://www.kaggle.com/datasets/mrmorj/hate-speech-and
 
 # API
 
-Using FastAPI, we'll create a web server that exposes a /predict route. Clients will post their translation request to the /predict and get the classification results.
+Using FastAPI,docker and azure I have created a web server that exposes a /predict route. Clients will post their hate speech identificationrequest to the /predict and get the classification results.
 
 **URL to use API** : http://20.237.46.134/docs
 
