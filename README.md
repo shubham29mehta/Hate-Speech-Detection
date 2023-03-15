@@ -17,4 +17,6 @@ Using FastAPI,docker and azure I have created a web server that exposes a /predi
 
 **URL to use API** : http://20.237.46.134/docs
 
+** Streamlit WebApp: https://shubham29mehta-hate-speech-detection-app-app-tewndo.streamlit.app/
+
 
