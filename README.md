@@ -5,7 +5,7 @@ The goal of this project/repository is to identify **Hate Speech** in a tweet us
 * LSTM
 * Bi-Directional LSTM
 * LSTM with attention
-* Pre-trained **ALBERT transfomer** and fine tuned it on the data to identify hate specch in a tweet.
+* Transfer Learning using **ALBERT transfomer**
 
 # Data Source
 
