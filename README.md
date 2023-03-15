@@ -1,6 +1,11 @@
 # Project Overview
 
-The goal of this project/repository is to identify **Hate Speech** in a tweet using deep learning based Transfomer models. I have used pre-trained **ALBERT transfomer** and fine tuned it on the data to identify hate specch in a tweet.
+The goal of this project/repository is to identify **Hate Speech** in a tweet using deep learning based Transfomer models. Following models were used to indentify the hate speech in tweets:
+* GRU
+*LSTM
+* Bi-Directional LSTM
+* LSTM with attention
+* Pre-trained **ALBERT transfomer** and fine tuned it on the data to identify hate specch in a tweet.
 
 # Data Source
 
