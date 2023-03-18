@@ -1,11 +1,13 @@
 # Project Overview
 
-The goal of this project/repository is to identify **Hate Speech** in a tweet using deep learning based Transfomer models. Following models were used to indentify the hate speech in tweets:
+The goal of this project/repository is to identify **Hate Speech** in a tweet using deep learning models. Following models were used to indentify the hate speech in tweets:
 * GRU
 * LSTM
 * Bi-Directional LSTM
 * LSTM with attention
 * Transfer Learning using **ALBERT transfomer**
+
+ALBERT transformer gave the best results with a Precision score of 0.91 on the test data
 
 # Data Source
 
