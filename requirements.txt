@@ -5,4 +5,4 @@ transformers==4.47.0
 sentencepiece
 torch==2.5.0
 nltk
-streamlit
+streamlit==1.41.0
