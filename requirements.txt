@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydantic
-transformers
+transformers==4.47.0
 sentencepiece
 torch
 nltk
