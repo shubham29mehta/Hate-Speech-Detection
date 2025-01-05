@@ -22,6 +22,8 @@ Using FastAPI,docker and azure I have created a web server that exposes a /predi
 **Streamlit WebApp**: https://shubham29mehta-hate-speech-detection-app-app-tewndo.streamlit.app/ (Link not working for now)
 
 **Video Preview**
+
+
 ![Video Preview](hate_speech_demo.gif)
 
 
