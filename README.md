@@ -17,10 +17,11 @@ You can get the data from https://www.kaggle.com/datasets/mrmorj/hate-speech-and
 
 Using FastAPI,docker and azure I have created a web server that exposes a /predict route. Clients can post their hate speech identification request to the /predict and get the classification results.
 
-**URL to use API** : http://20.241.135.69/docs
+**URL to use API** : http://20.241.135.69/docs (Link not working for now)
 
-**Streamlit WebApp**: https://shubham29mehta-hate-speech-detection-app-app-tewndo.streamlit.app/
+**Streamlit WebApp**: https://shubham29mehta-hate-speech-detection-app-app-tewndo.streamlit.app/ (Link not working for now)
 
+**Video Preview**
 ![Video Preview](hate_speech_demo.gif)
 
 
