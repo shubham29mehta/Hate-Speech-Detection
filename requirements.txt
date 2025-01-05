@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pydantic
 transformers
-sentencepiec
+sentencepiece
 torch
 nltk
 streamlit==1.41.0
