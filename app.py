@@ -25,7 +25,7 @@ class Transformer(nn.Module):
 
 
 #get model and tokenizer
-@st.cache_resource
+@st.cache_data
 def get_model():
     tokenizer = AlbertTokenizer.from_pretrained('albert-base-v2')
     transformer = AlbertModel.from_pretrained('albert-base-v2')
