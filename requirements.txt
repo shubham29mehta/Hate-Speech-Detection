@@ -5,3 +5,4 @@ transformers
 sentencepiece
 torch
 nltk
+streamlit
