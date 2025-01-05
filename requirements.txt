@@ -3,6 +3,6 @@ uvicorn
 pydantic
 transformers==4.47.0
 sentencepiece
-torch
+torch==2.5.0
 nltk
 streamlit
